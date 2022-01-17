@@ -5,7 +5,7 @@ Some of them may be projects that I built during my Bachelors and Masters and th
 
 Prediction of online shopper's intent using Machine learning:- A paper written that elaborates and details the project work done to predict the online shopper's purchase intent.
 
-Please find the description of each folder's contents:
+Please find the description of each folder's contents inside "Iswarya git hub projects" folder:
 
 Also design: Contains two java programs implementing OOPS design
 1. To find bipartite matching
